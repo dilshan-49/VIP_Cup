@@ -199,17 +199,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
-
-- PyTorch team for the excellent deep learning framework
-- torchvision for pre-trained models and utilities
-- The research community for Faster R-CNN architecture
-- Dataset contributors for providing annotated data
-
 ## 📬 Contact
 
 For questions, suggestions, or collaborations, please open an issue in this repository.
 
 ---
-
-**Note**: This project is designed for educational and research purposes. Please ensure you have appropriate permissions for any datasets used and comply with relevant licensing terms.
